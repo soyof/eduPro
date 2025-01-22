@@ -1,0 +1,63 @@
+[
+  {
+    "title": "科研动态",
+    "key": "scientific",
+    "list": [
+      {
+        "id": "1",
+        "pTitle": "科研动态",
+        "pKey": "scientific",
+        "title": "中国科大环境系李文卫教授课题组Environmental Science & Technology | 水中污染物聚合转移去除新进展",
+        "publishDate": 20241230,
+        "imgSrc": "https://team.ustc.edu.cn/_resources/group1/M00/00/68/wKhJFGdyDYKAdKKMAAG2SrWDqPM23.jpeg",
+        "desc": "近期，中国科学技术大学李文卫教授课题组在水中污染物聚合转移去除研究取得新进展，提出了一种简单的空间位置调控策略，精准调节单原子催化剂活性和选择性，使其兼具高活性与稳定性，通过高效引发聚合转移路径促进了水环境中污染物的去除。研究成果题为“Magnesium Oxide-Supported Single Atoms with Fine-Modulated Steric Location for Polymerization Transfer Removal of Water Pollutants”发表在Environmental Science & Technology，文章的共同第一作者为硕士研究生刘钰沁和华中科技大学博士研究生田立欣。",
+        "content": [
+          "近期，中国科学技术大学李文卫教授课题组在水中污染物聚合转移去除研究取得新进展，提出了一种简单的空间位置调控策略，精准调节单原子催化剂活性和选择性，使其兼具高活性与稳定性，通过高效引发聚合转移路径促进了水环境中污染物的去除。研究成果题为“Magnesium Oxide-Supported Single Atoms with Fine-Modulated Steric Location for Polymerization Transfer Removal of Water Pollutants”发表在Environmental Science & Technology，文章的共同第一作者为硕士研究生刘钰沁和华中科技大学博士研究生田立欣。",
+          "单原子催化剂（SACs）能够通过聚合转移（PT）途径去除有机污染物，有望以最小的能量/化学投入实现高效的水净化目标。然而，精确构建此类PT高效催化体系仍面临诸多挑战，而且传统的SACs因碳材料支撑结构稳定性欠佳使其应用受到限制。基于此，本研究选用氧化镁（MgO）作为稳定的载体来负载单原子铜（Cu），以驱动基于过硫酸盐（PMS）的类芬顿反应。通过精细调控Cu原子的空间位置由晶格内嵌转变为表面负载，该体系在PT过程中的催化路径发生了本质性的变化，显著提升了有机物的去除性能。该催化路径的转变主要源于Cu原子d带中心的下移。改性后的催化剂可通过近100%的PT路径实现水中酚类化合物的快速、彻底去除。同时，该催化剂还具备出色的结构稳定性和环境抗干扰能力，并在湖水及工业焦化废水处理中成功的应用。本研究验证了此类空间工程策略对其他以MgO为载体的单原子具有普适性，如Fe、Co和Ni SACs。该工作为推动基于SACs的高级氧化技术迈向可持续的水净化应用提供了有力支撑。",
+          "论文链接：https://doi.org/10.1021/acs.est.4c06608"
+        ]
+      },
+      {
+        "id": "2",
+        "pTitle": "科研动态",
+        "pKey": "scientific",
+        "title": "中国科大环境系李文卫教授课题组ACS Synthetic Biology | 微生物废弃物资源化利用新进展",
+        "publishDate": 20241231,
+        "content": [
+          "中国科学技术大学李文卫教授课题组近期在微生物废弃物资源化利用领域取得新进展，他们发现工程化的海洋细菌能够通过目标基因整合，实现无需抗生素的稳定生物合成宝贵化学物质。这一成果发表在 ACS Synthetic Biology 上，题为“Antibiotics-Free Steady Bioproduction of Valuable Chemicals from Organic Wastes by Engineered Vibrio natriegens through Targeted Gene Integration”。文章的共第一作者为硕士研究生孙丹和李会会。",
+          "在循环经济中，利用工程细菌进行化学品的生物合成具有广阔的前景，但传统方法中引入的质粒不稳定性是一个挑战。利用开发的双质粒INTEGRET系统能够将目标基因可靠地整合到需钠弧菌基因组中，使得该菌株成为一个平台，用于高效且稳定的生物合成，无需添加抗生素。INTEGRET系统允许以超过75%的插入效率，该系统还能实现在四个基因组位点同时插入基因，成功率达到54.3%，同时在多代中保持外源序列的稳定遗传。利用该工程菌株，可以从多种有机废物的发酵中高效合成PHB（聚羟基丁酸），效率与过表达质粒相当。当使用海水和糖蜜混合物作为原料时，实现了高达39.41%的PHB产率。研究还展示了INTEGRET系统在赋予细菌核黄素生产能力方面的扩展应用。",
+          "这项工作提供了一个可靠且高效的基因组编辑工具，有助于开发可持续和环境友好的生物平台，将生物质废物转化为有价值的化学物质。该研究得到了国家重点项目、国家自然科学基金项目和安徽省重点研发项目的支持。",
+          "论文链接： https://pubs.acs.org/doi/10.1021/acssynbio.4c00669"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "新闻动态",
+    "key": "news",
+    "list": [
+      {
+        "id": "25",
+        "pTitle": "新闻动态",
+        "pKey": "news",
+        "title": "可持续能源与环境材料 (SEEM) 创新中心 2024 年度学术总结交流会成功举办",
+        "imgSrc": "https://team.ustc.edu.cn/_resources/group1/M00/00/69/wKhJFWeEg3SAYp49AAnNnHk7C6U835.jpg",
+        "publishDate": 20250102,
+        "content": [
+          "2025年1月12日，可持续能源环境材料（SEEM）创新中心年度学术总结交流会在明德楼C102教室圆满举行。此次交流会汇聚了中心的众多科研人员和专家学者，共同回顾过去一年的成果，展望未来的发展方向。",
+          "会议伊始，中心负责人李文卫教授对年度工作进行了全面总结和梳理，对中心的未来发展规划进行了展望。",
+          "<p style=\"text-align: center\"><img src=\"https://team.ustc.edu.cn/_resources/group1/M00/00/69/wKhJFGeEdVKAZcokAArhEPPbyq8561.png\" alt=\"\"></p>",
+          "上午场由李文卫教授主持，副研、博后老师纷纷上台分享了自己的研究成果和经验，汇报了后续的工作计划。与会师生积极交流探讨，现场学术氛围浓厚。",
+          "<p style=\"text-align: center\"><img src=\"https://team.ustc.edu.cn/_resources/group1/M00/00/69/wKhJFGeEe7uAWJWAAA8Km26eDBE169.png\" alt=\"\"></p>",
+          "午场由刘东教授主持，学生们从催化材料、光电器件、微生物燃料电池等方面交流分享近期的研究成果，其中我组的孟岩同学（一排第一）和胡振宇同学（一排第二）的汇报主题分别是“单原子催化剂界面微结构调控及水处理应用”、“高效利用太阳能的人工光合系统界面工程”，报告逻辑清晰、重点突出，受到了评委和在场师生的广泛关注。",
+          "<p style=\"text-align: center\"><img src=\"https://team.ustc.edu.cn/_resources/group1/M00/00/69/wKhJFWeEgj-AcqwSAAuZDW2tmQk124.png\" alt=\"\"></p>",
+          "本届会议评选出特等奖2名（孟岩、翟广耀）、一等奖3名（司圣和、彭士哲、王福迎）、二等奖4名（胡振宇、刘迎澳、赵刚、赵跃然），由李文卫教授和刘东教授为优秀报告人颁奖。",
+          "<p style=\"text-align: center\"><img src=\"https://team.ustc.edu.cn/_resources/group1/M00/00/69/wKhJFGeEgk6AMrlXAAlqJlelh2s354.png\" alt=\"\"></p>",
+          "此次年度学术总结交流会不仅是对可持续能源环境材料创新中心过去一年工作的总结，更是一个交流合作、展望未来的重要平台。它激励着中心的全体成员在未来的科研道路上不断探索创新，为能源、环境、材料领域的发展做出更大的贡献。",
+          "<p style=\"text-align: center\"><img src=\"https://team.ustc.edu.cn/_resources/group1/M00/00/69/wKhJFWeEdhmAKytWAAqGBGsWWiM286.png\" alt=\"\"></p>",
+          "本届学术总结交流会由安徽泽升科技股份有限公司安耐吉化学赞助。"
+        ]
+      }
+    ]
+  }
+]

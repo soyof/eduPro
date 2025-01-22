@@ -1,0 +1,121 @@
+{
+  "professor": [
+    {
+      "id": "1",
+      "avatar": "https://ese.ustc.edu.cn/_upload/article/images/12/ce/8c2d1f9a4d26903c5bde858b45d2/68f85edd-faa1-4fdf-a264-68b51bd77907.jpg",
+      "name": "刘文清",
+      "rank": "院士",
+      "phone": "0551-65591595",
+      "email": "sdfsdf@qq.com",
+      "labWebsite": "http://124.16.167.194:8080/web/usb",
+      "perWebsite": "https://publons.com/researcher/2878071/yong-guan-zhu/",
+      "profilesInfos": [
+        "刘文清，1954年出生。中国工程院院士。",
+        "1978年 中国科学技术大学物理系，本科；",
+        "1990年 安徽光机所理学，硕士；",
+        "1995年 希腊克里特大学，博士。",
+        "现任中国科学技术大学环境科学与光电技术学院执行院长，",
+        "安徽光学精密机械研究所首席科学家，",
+        "国家环境光学监测仪器工程技术研究中心主任，",
+        "国家环境光学监测仪器工程技术研究中心主任，",
+        "先后负责建设了安徽省、中科院、环保部环境光学监测技术重点实验室和国家环境光学监测仪器工程技术研究中心等研究平台，建立了环境污染物的光谱特征数据库，研发了污染物光谱定量解析算法和工程化应用软件。研发了20多种常规污染物、污染源，VOCs，颗粒物，环境安全，水质污染在线监测技术设备，为改变我国 长期以来环境自动在线监测设备依赖国外进口的局面发挥了带动作用。",
+        "主持完成的“空气质量和污染源环境光学监测技术系统与应用”和“大气环境综合立体监测技术研发、系统应用及设备产业化”研究成果分别获2007和2011年国家科技进步二等奖；获省部级科学技术一等奖4项；获2012年安徽省重大科技成就奖。"
+      ],
+      "researchDireInfos": [
+        "环境光学特性",
+        "有害痕量气体光学与光谱学监测方法",
+        "新型环境监测技术研究"
+      ],
+      "projectInfos": [
+        "负责组织并承担国家科技部一系列重大攻关课题，取得了具有国际先进水平的重大科研成果。近十余年负 责承担了多项合作课题。 代表性论文： 至今已获42项发明专利授权，在国内外学术期刊发表发表SCI收录论文160余篇。"
+      ],
+      "acaJobInfos": [],
+      "awardInfos": [],
+      "dissertationInfos": []
+    },
+    {
+      "id": "2",
+      "avatar": "https://ese.ustc.edu.cn/_upload/article/images/fe/bf/2c77559040ce8ddfe43427d06a8b/7c9732ac-8b33-4b0d-ad7f-593a2c3c4fe5.jpeg",
+      "name": "俞汉青",
+      "rank": "院士",
+      "phone": "0551-63607592",
+      "email": " hqyu@ustc.edu.cn",
+      "labWebsite": "http://124.16.167.194:8080/web/usb",
+      "perWebsite": "http://hqyulab.ustc.edu.cn",
+      "profilesInfos": [
+        "国家杰出青年基金获得者(2006)、教育部长江学者特聘教授(2007)、全国模范教师(2009）、教育部创新团队负责人(2012)、科技部创新团队负责人(2016) 、国家自然科学基金委创新群体负责人(2018)、全国先进工作者(2020)。2014年以来连续入围 Elsevier 出版集团环境领域国际高被引学者、科睿瑞安交叉领域高被引科学家。中国科学技术大学杰出讲席教授，中国工程院院士。",
+        "长期开展水污染控制的基础研究、技术研发和实际应用工作，作为通讯/第一作者发表 SCI论文600多篇，SCI他引超过3万次，H因子114；成果分获国家自然科学二等奖和国家科技进步奖各1项、2024年美国化学会ACS环境科学与技术杰出成就奖、省部级科技/自然科学一等奖6项。指导的研究生1人获国际环境科学与工程教授协会优秀博士论文，3人获全国百篇优秀博士论文，2人获全国优秀博士论文提名。"
+      ],
+      "researchDireInfos": [
+        "环境生物技术",
+        "物化处理方法和技术",
+        "废弃物资源化"
+      ],
+      "projectInfos": [
+        "负责组织并承担国家科技部一系列重大攻关课题，取得了具有国际先进水平的重大科研成果。近十余年负 责承担了多项合作课题。 代表性论文： 至今已获42项发明专利授权，在国内外学术期刊发表发表SCI收录论文160余篇。"
+      ],
+      "acaJobInfos": [
+        "国务院学位委员会第八届环境科学与工程学科评议组成员",
+        "中国生态文明研究与促进会副会长"
+      ],
+      "awardInfos": [
+        "2002年获教育部“跨世纪优秀人才培养计划”",
+        "2003年获优秀留学回国人员成就奖",
+        "2004年入选人事部首批“新世纪百千万人才工程”",
+        "2004年获中国科学院优秀百人计划",
+        "2006年获国家自然科学基金委员会杰出青年基金",
+        "2007年获教育部长江学者特聘教授",
+        "2009年获全国模范教师",
+        "2020年获全国先进工作者",
+        "全国优秀博士论文指导教师（2008、2011、2013）",
+        "全国优秀博士论文提名指导教师（2009、2012）",
+        "中国科学院优秀博士论文指导教师（2007、2008、2009，2010、2011、2012、2014、2015、2016、2018、2019、2021、2022、2023年）",
+        "2024年美国化学会ACS环境科学与技术杰出成就奖"
+      ],
+      "dissertationInfos": [
+        "WW Li, HQ Yu*, B Rittmann* (2015) Reuse water pollutants. Nature. 528 (7580): 29-31.",
+        "GC Tan, HQ Yu* (2023) Rethinking Biochar: Black Gold or Not? Nature Reviews Materials. doi.org/10.1038/s41578-023-00634-1.",
+        "YJ Zhang, JS Tao, Y Hu, GX Huang, Y Pan, WW Li*, JJ Chen*, HQ Yu* (2024) Metal oxyhalide-based heterogeneous catalytic water purification with ultralow H2O2 consumption. Nature Water. In press.",
+        "Y Li, Q Tang*, FF Chen, H Sun, SA Hashsham, HQ Yu*, JM Tiedje* (2024) Development and validation of an engineered DNA scavenger for mitigating antibiotic resistance proliferation in wastewater treatment. Nature Water. In press."
+      ]
+    }
+  ],
+  "assProfessor": [
+    {
+      "id": "3",
+      "avatar": "https://ese.ustc.edu.cn/_upload/article/images/50/eb/189ccfd340648c9f3d32e9500d7a/ad2d67f7-a0af-4229-96c0-8271373f35ba.jpg",
+      "name": "康辉",
+      "rank": "副教授",
+      "phone": "0551-63603471",
+      "email": "rillian@ustc.edu.cn",
+      "labWebsite": "",
+      "perWebsite": "",
+      "profilesInfos": [
+        "2020年1月-至今，工程师，中国科学技术大学环境科学与工程系",
+        "2012年3月-2020年1月，工程师，中国科学技术大学地球和空间科学学院",
+        "2006年9月-2012年3月，博士，中国科学技术大学地球和空间科学学院",
+        "2002年7月-2006年9月，实验员，中国科学技术大学化学与材料科学学院院",
+        "1998年9月-2002年7月，本科，安徽师范大学"
+      ],
+      "researchDireInfos": [
+        "大气环境",
+        "大气化学"
+      ],
+      "projectInfos": [],
+      "acaJobInfos": [],
+      "awardInfos": [
+        "王宽诚育才奖二等奖，学校级，2014年9月",
+        "地空学院公共服务奖，2016年12月",
+        "兴业证券教育奖，学校级，2017年9月”"
+      ],
+      "dissertationInfos": [
+        "Kang, H., Xie, Z. Q.*, Hu, Q. H. (2012) Ambient protein concentration in PM10 in Hefei City, central China. Atmospheric Environment, 54, 73-79.",
+        "Hu, Q. H., Xie, Z. Q.*, Wang, X. M., Kang, H., He, Q. F. and Zhang, P.F. (2013) Secondary organic aerosols over oceans via oxidation of isoprene and monoterpenes from Arctic to Antarctic. Scientific Reports, 2280.",
+        "Hu, Q. H., Xie, Z. Q.*, Wang, X. M., Kang, H. and Zhang, P.F. (2013) Levoglucosan  indicates high levels of biomass burning aerosols over oceans from the Arctic to Antarctic. Scientific Reports, 3119.",
+        "Yu, J., Hu, Q., Xie, Z. Q.*, Kang, H., Li, M., Li, Z., Ye, P. P. (2013) Concentration and Size Distribution of Fungi Aerosol over Oceans along a Cruise Path during the Fourth Chinese Arctic Research Expedition.   , 4, 337-348."
+      ]
+    }
+  ],
+  "lecturer": [],
+  "postDoctoral": []
+}

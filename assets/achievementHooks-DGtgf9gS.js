@@ -1,0 +1,1 @@
+import{s as o}from"./services-Dqh1wXe-.js";import{r}from"./index-DswlHMNH.js";const f=()=>{const s=r(!1);return{loading:s,getAchieveInfo:()=>(s.value=!0,new Promise((t,n)=>{o.get("/data/achievement/achievement.json").then(e=>{console.log(JSON.parse(JSON.stringify(e||[]))),t(JSON.parse(JSON.stringify(e||[])))}).catch(e=>{n(e)}).finally(()=>{s.value=!1})}))}};export{f as u};

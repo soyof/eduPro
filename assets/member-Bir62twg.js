@@ -1,0 +1,1 @@
+import{s as t}from"./services-Dqh1wXe-.js";import{r as a}from"./index-DswlHMNH.js";const l=()=>{const e=a(!1);return{loading:e,getMemberInfo:()=>(e.value=!0,new Promise((o,s)=>{t.get("/data/member/member.json").then(r=>{o(r)}).catch(r=>{s(r)}).finally(()=>{e.value=!1})}))}};export{l as u};

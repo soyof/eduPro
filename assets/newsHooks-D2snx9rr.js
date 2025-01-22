@@ -1,0 +1,1 @@
+import{s as r}from"./services-Dqh1wXe-.js";import{r as t}from"./index-DswlHMNH.js";const l=()=>{const s=t(!1);return{loading:s,getNewsInfo:()=>(s.value=!0,new Promise((o,n)=>{r.get("/data/news/news.json").then(e=>{console.log(JSON.parse(JSON.stringify(e||[]))),o(JSON.parse(JSON.stringify(e||[])))}).catch(e=>{n(e)}).finally(()=>{s.value=!1})}))}};export{l as u};
